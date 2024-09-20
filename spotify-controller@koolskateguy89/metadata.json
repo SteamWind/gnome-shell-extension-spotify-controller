@@ -8,7 +8,9 @@
     "41",
     "42",
     "43",
-    "44"
+    "44",
+    "45",
+    "46"
   ],
   "settings-schema": "org.gnome.shell.extensions.spotify-controller",
   "url": "https://github.com/koolskateguy89/gnome-shell-extension-spotify-controller",
